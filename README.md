@@ -1,8 +1,8 @@
-# ✈️ Airline Reservation System (C++ | OOP Project)
+# ✈️ FlyBoard (C++ | OOP Project)
 
 ## 📌 Overview
 
-The **Airline Reservation System** is a C++ project built using Object-Oriented Programming principles. It simulates a simple airline management platform where customers can book and manage flights, while admins can control the system using CRUD operations. This project was developed as part of an academic OOPs-based software design module.
+FlyBoard **Airline Reservation System** is a C++ project built using Object-Oriented Programming principles. It simulates a simple airline management platform where customers can book and manage flights, while admins can control the system using CRUD operations. This project was developed as part of an academic OOPs-based software design module.
 
 ---
 
