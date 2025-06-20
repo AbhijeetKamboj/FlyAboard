@@ -1,8 +1,8 @@
-# ✈️ FlyBoard (C++ | OOP Project)
+# ✈️ FlyAboard (C++ | OOP Project)
 
 ## 📌 Overview
 
-FlyBoard is a **Airline Reservation System** a C++ project built using Object-Oriented Programming principles. It simulates a simple airline management platform where customers can book and manage flights, while admins can control the system using CRUD operations. This project was developed to apply and strengthen core concepts of Object-Oriented Programming (OOP) in a practical scenario.
+FlyAboard is a **Airline Reservation System** a C++ project built using Object-Oriented Programming principles. It simulates a simple airline management platform where customers can book and manage flights, while admins can control the system using CRUD operations. This project was developed to apply and strengthen core concepts of Object-Oriented Programming (OOP) in a practical scenario.
 
 ---
 
